@@ -157,6 +157,7 @@ section{
 }
 
 .project-card{
+    position : absolute;
     background-color: #f0f0f0;
     border: 1px solid #fff;
     min-height: 14em;
